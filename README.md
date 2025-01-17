@@ -27,10 +27,10 @@ This is a standard React Next.js project. You can install the modules using `npm
 - Use modular components for the game screens, and the components should be in the `game/components` folder
 
 ## Submissions
-- Create a fork of the repository
-- Make the necessary changes to the code
-- Create a pull request to merge your changes into the main repository
-  - Mention your name and email id in the PR comments.
+- Close the repository code.
+- Make the necessary changes to the code.
+- Submit a zip (or tar.gz) with the game and a short video recording of the game play.
+- Main the zip file to `sahasra@mathkraft.org` with your contact details.
 
 
 ## Guidelines
