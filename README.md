@@ -15,7 +15,7 @@ The game is designed to help students (primarily elementary and middle school le
    - Provide visual representations of mixed fractions
 
 ## Setup
-This is a standard React Next.js project. You can install the modules using `npm install` followed by starting up the server using `npm run dev`.
+This is a standard React Next.js project. You can install the modules using `npm install` followed by starting up the project using `npm run dev`.
 
 ## Technical Requirements
 - Responsive React web-based game
@@ -30,7 +30,7 @@ This is a standard React Next.js project. You can install the modules using `npm
 - Create a fork of the repository
 - Make the necessary changes to the code
 - Create a pull request to merge your changes into the main repository
-  - Mention you name and email id in the PR comments.
+  - Mention your name and email id in the PR comments.
 
 
 ## Guidelines
